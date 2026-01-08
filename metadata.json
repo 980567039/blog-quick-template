@@ -1,0 +1,5 @@
+{
+  "name": "Payload Easy Deployer",
+  "description": "A comprehensive guide and tool to help users deploy their own Payload CMS blog to Vercel with MongoDB in minutes.",
+  "requestFramePermissions": []
+}
